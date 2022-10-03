@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicatino
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Algorithms, DataStructures
-- 💞️ I’m looking to collaborate at python projects
+- 👀 I’m interested in JavaScript and Python
+- 🌱 I’m currently learning Test Automation, Algorithms, RE, Penetration Testing
+- 💞️ I’m looking to collaborate at any projects
 - 📫 How to reach me yevhenii.kononenko@gmail.com
 
 
